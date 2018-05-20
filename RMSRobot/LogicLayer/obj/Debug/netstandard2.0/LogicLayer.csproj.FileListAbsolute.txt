@@ -1,0 +1,9 @@
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\josec\source\repos\RMSRobot\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb

@@ -1,0 +1,14 @@
+c:\users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\RMSRobot.deps.json
+c:\users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\RMSRobot.runtimeconfig.json
+c:\users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\RMSRobot.runtimeconfig.dev.json
+c:\users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\RMSRobot.dll
+c:\users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\RMSRobot.pdb
+c:\users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.csprojResolveAssemblyReference.cache
+c:\users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.csproj.CoreCompileInputs.cache
+c:\users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.AssemblyInfoInputs.cache
+c:\users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.AssemblyInfo.cs
+c:\users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.dll
+c:\users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.pdb
+C:\Users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\LogicLayer.dll
+C:\Users\josec\source\repos\RMSRobot\RMSRobot\bin\Debug\netcoreapp2.0\LogicLayer.pdb
+C:\Users\josec\source\repos\RMSRobot\RMSRobot\obj\Debug\netcoreapp2.0\RMSRobot.csproj.CopyComplete
